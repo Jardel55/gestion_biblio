@@ -1,0 +1,38 @@
+[
+    {
+        "titre": "Pourquoi Moi ?",
+        "auteur": "Abdel Hamza Hakim",
+        "annee": "2015",
+        "disponible": true
+    },
+    {
+        "titre": "Destin d'une danseuse",
+        "auteur": "Abdel Hamza Hakim",
+        "annee": "2014",
+        "disponible": true
+    },
+    {
+        "titre": "L'abre F\u00e9tiche",
+        "auteur": "Jean PLIYA",
+        "annee": "2010",
+        "disponible": true
+    },
+    {
+        "titre": "Le Pagne Noir",
+        "auteur": "Camara Lay",
+        "annee": "2005",
+        "disponible": true
+    },
+    {
+        "titre": "Sous L'orage",
+        "auteur": "Seydou Badian",
+        "annee": "2008",
+        "disponible": true
+    },
+    {
+        "titre": "Les Fant\u00f4mes du Br\u00e9zil",
+        "auteur": "Vide",
+        "annee": "2010",
+        "disponible": true
+    }
+]
