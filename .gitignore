@@ -1,0 +1,10 @@
+# Dossiers Python compilés
+__pycache__/
+*.pyc
+
+# Fichiers locaux (tes données JSON si tu ne veux pas les pousser)
+data/
+
+# Fichiers système
+.DS_Store
+Thumbs.db
