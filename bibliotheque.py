@@ -32,7 +32,7 @@ class Bibliotheque:
     def chercher_livre(self, titre):
         
         for livre in self.__livres:
-            if livre.get_titre.lower() == titre.lower():
+            if livre.get_titre().lower() == titre.lower():
                 return livre
         return None
 
